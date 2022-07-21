@@ -1,3 +1,12 @@
-/* Remember to start all CSS slectors for the PictureBox with `.PictureBox`
-This process of namespacing ensures that stlyes for this component do not
-spill over into subling components. */
+.picture-box{
+    text-align: center;
+    background-color: rgb(248,248,248);
+    padding: 1rem;
+    border-radius: 10px
+  }
+  
+  .pic {
+    width:100%;
+    border-radius: 100%;
+    margin-bottom: 1rem
+  }

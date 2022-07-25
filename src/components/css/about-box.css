@@ -1,5 +1,17 @@
+
 .about-box{
     background-color: rgb(248,248,248);
     padding: 1rem;
-    border-radius: 10px;
-}
+    border-radius: 10px
+  }
+  
+  .heading{
+    text-align: center;
+    font-weight:700;
+    font-size:2rem
+  }
+  
+  .list-group-item{
+    font-weight: 700;
+    padding:1rem
+  }
